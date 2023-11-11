@@ -6,13 +6,13 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAaTVNk2mk60d6zWUOez1wsiEzSvOLs7tY",
-  authDomain: "dorfsmay-firebase-test-01.firebaseapp.com",
-  databaseURL: "https://dorfsmay-firebase-test-01-default-rtdb.firebaseio.com",
-  projectId: "dorfsmay-firebase-test-01",
-  storageBucket: "dorfsmay-firebase-test-01.appspot.com",
-  messagingSenderId: "573416676071",
-  appId: "1:573416676071:web:b4c5b75bbbfb9ffc3ae042",
+  apiKey: "copy this from your Firebase console",
+  authDomain: "copy this from your Firebase console",
+  databaseURL: "copy this from your Firebase console",
+  projectId: "copy this from your Firebase console",
+  storageBucket: "copy this from your Firebase console",
+  messagingSenderId: "copy this from your Firebase console",
+  appId: "copy this from your Firebase console",
 };
 
 // Initialize Firebase
